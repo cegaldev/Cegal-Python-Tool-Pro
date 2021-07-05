@@ -1,0 +1,16 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - pip
+  - tensorflow-gpu=2.1.0
+  - tensorflow=2.1.0
+  - tensorflow-estimator=2.1.0
+  - numpy
+  - matplotlib
+  - itkwidgets
+  - jupyterlab
+  - pandas
+  - scikit-learn
+  - h5py=2.10.0
+ 
